@@ -1,4 +1,3 @@
 ### Hi there 👋
 
-- 🎓 I’m a final-year student.
-- ⚡ Focus on back-end engineering and cloud computing.
+Avoiding coding as a job so I can code as a hobby.
